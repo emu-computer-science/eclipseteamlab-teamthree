@@ -12,6 +12,7 @@ public class Glad {
 	
 	public static void moreGlad() {
 		System.out.println("We are feeling more glad");
+		
 	}
 
 }
